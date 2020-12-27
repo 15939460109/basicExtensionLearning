@@ -1,4 +1,4 @@
-package demo;
+package hashmap;
 
 // 可见性
 public class VisibilityDemo {

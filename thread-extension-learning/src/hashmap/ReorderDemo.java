@@ -1,4 +1,4 @@
-package demo;
+package hashmap;
 
 // 有序性
 public class ReorderDemo {

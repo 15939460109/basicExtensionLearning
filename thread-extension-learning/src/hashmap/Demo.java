@@ -1,4 +1,4 @@
-package demo;
+package hashmap;
 
 public class Demo {
 

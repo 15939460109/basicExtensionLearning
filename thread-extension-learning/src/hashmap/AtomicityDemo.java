@@ -1,4 +1,4 @@
-package demo;
+package hashmap;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
