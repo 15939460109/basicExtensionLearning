@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/basicExtensionLearning.iml" filepath="$PROJECT_DIR$/.idea/basicExtensionLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashmap-extension-learning/hashmap-extension-learning.iml" filepath="$PROJECT_DIR$/hashmap-extension-learning/hashmap-extension-learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/jvm-extension-learning/jvm-extension-learning.iml" filepath="$PROJECT_DIR$/jvm-extension-learning/jvm-extension-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio-extension-learing/nio-extension-learing.iml" filepath="$PROJECT_DIR$/nio-extension-learing/nio-extension-learing.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-extension-learning/thread-extension-learning.iml" filepath="$PROJECT_DIR$/thread-extension-learning/thread-extension-learning.iml" />
     </modules>
   </component>
